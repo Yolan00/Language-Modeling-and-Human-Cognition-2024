@@ -27,6 +27,9 @@ RUNNING INSTRUCTIONS:
 - Ask your question
 - The bigger models (2.8b/6.9b/12b) require high computational power and disk space
 
+
+IMPORTANT NOTES:
+
 There are two ¨Grading Table¨ files. The ¨Google version¨ has been modified to work correctly with Google Sheets, while the ¨Excel version¨ is the original table. 
 We recommend using the Excel version with the appropriate programme. 
 In any case, it is best to avoid opening files with the wrong application to avoid errors in the display of tables and graphs.
