@@ -27,3 +27,15 @@ RUNNING INSTRUCTIONS:
 - Wait for the download to finish
 - Ask your question
 - The bigger models (2.8b/6.9b/12b) require high computational power and disk space
+
+
+
+
+
+
+
+
+
+
+
+
