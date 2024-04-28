@@ -15,13 +15,11 @@ AUTHORS: Simone Baratella, Kassandra Briola, Samuele Antonelli
 
 
 INSTALLATION INSTRUCTIONS:
-
 - Download the ¨Models.zip¨ file and extract the codes
 - Install the transformers and Pytorch libraries
 	
 
 RUNNING INSTRUCTIONS:
-
 - Run the code for the preferred model (we suggest 410m for fast but informative testing)
 - Wait for the download to finish
 - Ask your question
