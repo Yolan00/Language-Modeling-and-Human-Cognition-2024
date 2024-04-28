@@ -23,6 +23,7 @@ RUNNING INSTRUCTIONS:
 - Run the code for the preferred model (we suggest 410m for fast but informative testing)
 - Wait for the download to finish
 - Ask your question
+- Type "exit" to terminate the program
 - The bigger models (2.8b/6.9b/12b) require high computational power and disk space
 
 
